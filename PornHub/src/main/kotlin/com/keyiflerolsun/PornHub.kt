@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.*
 import com.lagradost.cloudstream3.LoadResponse.Companion.addActors
 
 class PornHub : MainAPI() {
-    override var mainUrl              = "https://www.pornhub.com"
+    override var mainUrl              = "https://www.de.pornhub.org"
     override var name                 = "PornHub"
     override val hasMainPage          = true
     override var lang                 = "en"
